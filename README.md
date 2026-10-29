@@ -175,6 +175,12 @@ La aplicación aplica varias medidas de reducción de riesgos:
 
 ---
 
+## 🤝 Contribuir
+
+¿Querés ayudar a construir Virtus City? Consultá la [guía para contribuir](CONTRIBUTING.md) para preparar el proyecto, comprobar tus cambios y abrir un pull request.
+
+---
+
 ## 🤝 Comunidad y redes
 
 - **Instagram**: [@tiendavirtus.oficial](https://www.instagram.com/tiendavirtus.oficial/)
